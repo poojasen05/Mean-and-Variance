@@ -1,8 +1,10 @@
                                                                                                                                                   
 
+
+NAME: POOJA S
+REG NO: 212223040146
+
 #  Mean and variance of a discrete  distribution 
-                                                                                                                                NAME: POOJA S
-                                                                                                                                REG NO: 212223040146
 
 
 # Aim : 
